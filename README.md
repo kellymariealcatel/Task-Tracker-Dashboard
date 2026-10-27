@@ -1,7 +1,5 @@
 <!--
-**kellymariealcatel/kellymariealcatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+# Ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,9 +10,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm kellymariealcatel/WarriormaidUK 👋
+# Hi, I'm WarriormaidUK 👋
 
 I am a creative builder documenting my learning journey across technical and practical projects. 
+
+This is my very first personal coding project, built step-by-step as a way to learn the fundamentals, experiment, and track my progress over time. Expect plenty of iterations, updates, and learning along the way!
 
 ---
 
